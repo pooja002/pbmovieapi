@@ -13,7 +13,7 @@ import java.util.Set;
 @AllArgsConstructor
 public class MovieDTO {
     private Integer id;
-    @NotBlank(message = "Please provide movie's release Year")
+
     private Integer releaseYear;
 
     @NotBlank(message = "Please provide movie's title")
@@ -28,6 +28,6 @@ public class MovieDTO {
     private Set<String> movieCast;
     @NotBlank(message = "Please provide movie's poster")
     private String poster;
-    @NotBlank(message = "Please provide movie's poster URL")
+
     private  String posterURL;
 }
