@@ -4,3 +4,8 @@
 3. Delete movie poster
 4. Get Movie by ID
 
+### TO DOs:
+1. Pagination & Sorting
+2. Include Swagger documentation
+3. Include Java Docs
+   
