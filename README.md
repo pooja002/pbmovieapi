@@ -8,4 +8,8 @@
 ### TO DOs:
 1. Include Swagger documentation
 2. Include Java Docs
-   
+
+## Security Mechanism:
+
+JWT authentication
+
